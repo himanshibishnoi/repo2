@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "project": "himanshibishnoi/repo2",
+  "signer": "himanshibishnoi",
+  "created_at": "2026-11-01T04:45:00Z",
+  "description": "WoT Verification Node: Multi-hop denouncements for malicious actors",
+  "vouches": [
+    "dave-contributor"
+  ],
+  "denouncements": [
+    "malicious-spammer"
+  ],
+  "trusted_peers": [
+    "Ishan3131/repo1"
+  ],
+  "signature": "sha256:7902699be42c8a8e46fbbb4501726517e86b22c56a189f7625a6da49081b2451"
+}
